@@ -1,6 +1,6 @@
 ---
 title: StackShift
-description: Unlock Your Web3 Potential with the Celo StackShift Program.
+description: Unlock Your Web3 Potential with the Celo StackShift Program..
 ---
 
 # 🎓 StackShift
